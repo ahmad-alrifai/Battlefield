@@ -1,0 +1,8 @@
+{
+  "version": "1.0.1",
+  "download": "https://github.com/YourName/Alrifai-Game/releases/download/Launcher-v1.0.1/Alrifai_Launcher.exe",
+  "size": 139264,
+  "hash": "YOUR_SHA256_HASH_HERE",
+  "mandatory": true,
+  "releaseNotes": "Added auto-update functionality and AppData relocation."
+}
