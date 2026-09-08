@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "download": "https://github.com/YourName/Alrifai-Game/releases/download/Launcher-v1.0.1/Alrifai_Launcher.exe",
+  "download": "https://github.com/ahmad-alrifai/Battlefield/raw/refs/heads/main/Alrifai%20Launcher.exe",
   "size": 139264,
   "hash": "YOUR_SHA256_HASH_HERE",
   "mandatory": true,
