@@ -1,0 +1,8 @@
+{
+  "version": "1.0.4",
+  "download": "https://github.com/YourName/Alrifai-Game/releases/download/v1.0.4/game.zip",
+  "size": 123456789,
+  "hash": "YOUR_SHA256_HASH_HERE",
+  "mandatory": false,
+  "releaseNotes": "First test build on GitHub!"
+}
