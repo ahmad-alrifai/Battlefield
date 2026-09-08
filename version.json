@@ -1,8 +1,8 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "download": "https://github.com/ahmad-alrifai/Battlefield/raw/refs/heads/main/Battlefield.zip",
-  "size": 64803793,
-  "hash": "AF9AAE29980AAE99BA856FDFF09E64381CBFD2646A3588EDC15EDE4E858F7A48",
+  "size": 65267466,
+  "hash": "A11D8746921E846735508FA914B7A03460FA05BEFBBE43D91CDA8B5D443A4B71",
   "mandatory": true,
   "releaseNotes": "First test build on GitHub!"
 }
