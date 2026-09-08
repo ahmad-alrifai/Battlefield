@@ -1,8 +1,8 @@
 {
   "version": "1.0.1",
   "download": "https://github.com/ahmad-alrifai/Battlefield/raw/refs/heads/main/Alrifai%20Launcher.exe",
-  "size": 139264,
-  "hash": "YOUR_SHA256_HASH_HERE",
+  "size": 161452976,
+  "hash": "90DD4B25279529AB5AC662F25612E6CE0827672DB6032B4D1FB83ADFC85A08DE",
   "mandatory": true,
   "releaseNotes": "Added auto-update functionality and AppData relocation."
 }
